@@ -3,8 +3,8 @@ Projeto de calculadora de decimal para: Binário (limite de 16 bits), Hexadecima
 <br> <br>
 
 
-<b>Aluno<\b>:Rodrigo Torres <br>
-<b>Email institucional: @rtmr@cesar.school<\b><br>
+<b>Aluno</b>:Rodrigo Torres <br>
+<b>Email institucional</b>: @rtmr@cesar.school<\b><br>
 
 
 
