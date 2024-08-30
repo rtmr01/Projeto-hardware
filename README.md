@@ -1,5 +1,12 @@
 # Projeto-hardware
 Projeto de calculadora de decimal para: Binário (limite de 16 bits), Hexadecimal, Octal, BCD, complemento de dois (limite de 16 bits), float e double.
+<br> <br>
+
+
+<b>Aluno<\b>:Rodrigo Torres <br>
+<b>Email institucional: @rtmr@cesar.school<\b><br>
+
+
 
 <b>Relatório do projeto:</b><br>
 1-Funções de Hexadecimal (19:00), decimal(15:35)  e complemento a dois(16:00) feitos nos dias 24/08.<br>
