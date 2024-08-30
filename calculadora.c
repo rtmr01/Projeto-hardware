@@ -11,7 +11,7 @@ void CompDeDois(int num) {
         num = (1 << 16) + num;
     }
 
-    printf("Seu número em Complemento de dois: ");
+    printf("Seu número em Binário ou binário negativo em complemento de dois: ");
     for (int i = 15; i >= 0; i--) {
         int bit = (num >> i) & 1;
         printf("%d", bit);
